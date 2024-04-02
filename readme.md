@@ -1,6 +1,6 @@
 ## Rango -  Site de delivery (Fictício) 🚧🖥️
 
-## Sobre o Projeto 🎯 🪩 
+## Sobre o Projeto 🎯📚
 
 O Rango é um site de delivery de comidas completo, tendo um cardápio para lá de apetitoso, contando com opções
 de almoço, café da manhã e lanches. O site é capaz de realizar pedidos, enviar notificações via email
