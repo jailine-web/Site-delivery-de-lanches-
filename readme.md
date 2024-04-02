@@ -1,6 +1,6 @@
 ## Rango -  Site de delivery (Fictício) 🚧🖥️
 
-Site fictício de delivery de comida 
+Site fictício de delivery de comida, construído com o sistema de gerenciador de conteúdos Wordpress.
 
 ## Sobre o Projeto 🎯📚
 
